@@ -1,0 +1,12 @@
+python is both compiled and interpreted language
+**compiled -> code -> compiler -> binary lang
+any lang to any lang
+python code -> compiled -> byte code -> interpreted ->machine lang
+**interpreted -> set of instructions ill read each line by line
+
+interpreted on PVM (pythonvirtual Machine) -> manchine language code
+
+
+
+
+
